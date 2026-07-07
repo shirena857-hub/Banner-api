@@ -10,7 +10,7 @@ from PIL import Image, ImageDraw, ImageFont
 from concurrent.futures import ThreadPoolExecutor
 
 # ================= CONFIGURATION =================
-INFO_API_URL = "https://info-api-green-theta.vercel.app/info"
+INFO_API_URL = "https://sb-ful-info.vercel.app/accinfo"
 # =================================================
 
 # ================= POSITIONS (from your tool) =================

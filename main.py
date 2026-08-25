@@ -27,7 +27,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-INFO_API_URL = "https://info-api-green-theta.vercel.app/info"
+INFO_API_URL = "https://sb-ful-info.vercel.app/player-info"
 FONT_FILE = "arial_unicode_bold.otf"
 FONT_CHEROKEE = "NotoSansCherokee.ttf"
 
